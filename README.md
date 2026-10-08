@@ -27,6 +27,6 @@ Pour examiner les perturbations du trafic maritime qui firent suite à cet évè
 
 ## Contexte
 
-Cette journée d'étude est organisée par **RETICULAR** financée par l'Université Gustave Eiffel (Étienne CÔME et Françoise BAHOKEN) avec la collaboration de l'UMR Géographie-cité (Marion Maisonobe) et le soutien de l'Action de Recherche n° 9 du GdR CNRS MAGIS (Carto)graphies et (Geo)visualisation de données.
+Cette journée d'étude est organisée par **RETICULAR** financée par l'Université Gustave Eiffel (Étienne CÔME et Françoise BAHOKEN) avec la collaboration de l'UMR Géographie-cité (Marion MAISONOBE) et le soutien de l'Action de Recherche n° 9 du GdR CNRS MAGIS (Carto)graphies et (Geo)visualisation de données.
 
 

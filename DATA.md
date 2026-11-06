@@ -4,9 +4,13 @@ Ce dépôt regroupe les données attributaires sur les navires et les données A
 
 ## Données attributaires sur les navires
 
+La description des colonnes, des codes et des précautions d'usage se trouve dans [BDD_Navire.md](BDD_Navire.md).
+
 | Jeu de données | DOI |
 |---|---|
 | Caractéristiques des navires | [10.6084/m9.figshare.34788261](https://doi.org/10.6084/m9.figshare.34788261) |
+
+
 
 ## Données AIS (localisation dynamique et métadonnées)
 

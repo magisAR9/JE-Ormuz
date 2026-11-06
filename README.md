@@ -5,9 +5,6 @@ Pour les données c'est par [ici](DATA.md).
   
 ## 📆 Vendredi 13 novembre à partir de 9h45
 
-<img width="2481" height="3508" alt="Ormuz_affiche" src="https://github.com/user-attachments/assets/4e686c1f-4962-41b7-933f-88475d608686" />
-
-
 ## 🌐 Université Gustave Eiffel : LISIS  Salle Seine
 3, allée Jean Renoir, 93160 Noisy-le-Grand
 
@@ -25,6 +22,10 @@ La journée Ormuz est organisée autour de deux moments.
 - L’après-midi sera consacrée à **un atelier de travail collectif afin d'essayer de décrire au mieux la réorganisation du trafic maritime** qui fit suite à la fermeture du détroit. Cet atelier sera organisé autour de données diachroniques (6 mois avant le début de la fermeture du détroit, six mois après la fermeture du détroit) décrivant les circulations de navires. Il mobilisera notamment des données d'Identification automatique des navires (AIS : _Automatic indentification system_) pré-sélectionnées, qui seront accessibles sur cette page. </br>
 
 Pour examiner les perturbations du trafic maritime qui firent suite à cet évènement majeur, de petits groupes seront constitués pour travailler à différentes échelles et sur différentes types de trafic (porte conteneur, tanker). Nous prévoyons aussi, à l'aide des informations associées aux données AIS, de tenir compte du cas particulier des marins bloqués dans le détroit. Les visualisations de données produites seront documentées et feront l’objet d’une restitution et d’une valorisation ultérieure.
+
+
+
+<img src="https://framaforms.org/sites/default/files/forms/img/ormuz.png" width ="60%"/>
 
 
 ## Contexte

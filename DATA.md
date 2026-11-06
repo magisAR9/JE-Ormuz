@@ -10,7 +10,7 @@ Ce dépôt regroupe les données attributaires sur les navires et les données A
 
 ## Données AIS (localisation dynamique et métadonnées)
 
-La description des colonnes, des codes et des précautions d'usage se trouve dans [AIS_DATA.md](AIS_inofs.md).
+La description des colonnes, des codes et des précautions d'usage se trouve dans [AIS_infos.md](AIS_infos.md).
 
 | Flotte | DOI |
 |---|---|

@@ -1,5 +1,7 @@
 #  Journée d'étude Ormuz. Les data du détroit
-Journée d'étude d'explorations des circulations maritimes du Détroit d'Ormuz, avec un atelier sur les données AIS
+Journée d'étude d'explorations des circulations maritimes du Détroit d'Ormuz, avec un atelier sur les données AIS.
+
+Pour les données c'est par [ici](DATA.md).
   
 ## 📆 Vendredi 13 novembre à partir de 9h45
 

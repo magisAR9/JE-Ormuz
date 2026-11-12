@@ -36,7 +36,8 @@ La description des colonnes, des codes et des précautions d'usage se trouve dan
 | Zone |Flotte | DOI |
 |---|---|---|
 |Détroit  |Toutes|[10.6084/m9.figshare.34992688](https://doi.org/10.6084/m9.figshare.34992688)|
-|Monde  |GNL & TANKER|[10.6084/m9.figshare.34992688](https://doi.org/10.6084/m9.figshare.34992688)|
+|Monde  |TANKER > 55000DWT|[10.6084/m9.figshare.34995577](https://doi.org/10.6084/m9.figshare.34995577)|
+|Monde  |GNL |[10.6084/m9.figshare.34995589](https://doi.org/10.6084/m9.figshare.34995589)|
 
 Source :
 [IHS Maritime](https://maritime.ihs.com/)

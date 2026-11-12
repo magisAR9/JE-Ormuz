@@ -10,7 +10,8 @@ La description des colonnes, des codes et des précautions d'usage se trouve dan
 |---|---|
 | Caractéristiques des navires | [10.6084/m9.figshare.34788261](https://doi.org/10.6084/m9.figshare.34788261) |
 
-
+Source :
+[IHS Maritime](https://maritime.ihs.com/)
 
 ## Données AIS (localisation dynamique et métadonnées)
 
@@ -18,9 +19,13 @@ La description des colonnes, des codes et des précautions d'usage se trouve dan
 
 | Flotte | DOI |
 |---|---|
-| Pétroliers (*tankers*) | [10.6084/m9.figshare.34788252](https://doi.org/10.6084/m9.figshare.34788252) |
-| Porte-conteneurs (*container ships*) | [10.6084/m9.figshare.34788243](https://doi.org/10.6084/m9.figshare.34788243) |
-| Méthaniers (*LNG carriers*) | [10.6084/m9.figshare.34788225](https://doi.org/10.6084/m9.figshare.34788225) |
+| Pétroliers (*TANKER*) | [10.6084/m9.figshare.34788252](https://doi.org/10.6084/m9.figshare.34788252) |
+| Porte-conteneurs (*CONTAINER*) | [10.6084/m9.figshare.34788243](https://doi.org/10.6084/m9.figshare.34788243) |
+| Méthaniers (*GNL*) | [10.6084/m9.figshare.34788225](https://doi.org/10.6084/m9.figshare.34788225) |
+
+
+Source :
+[AIS Hub](https://www.aishub.net/)
 
 ## Données Escales 
 
@@ -28,11 +33,13 @@ La description des colonnes, des codes et des précautions d'usage se trouve dan
 
 Période couverte du 01/12/2025 au 31/05/2026 , fermeture du détroit 28 Février 2026
 
-| Zone | DOI |
-|---|---|
-|Détroit  |[10.6084/m9.figshare.34992688](https://doi.org/10.6084/m9.figshare.34992688)|
+| Zone |Flotte | DOI |
+|---|---|---|
+|Détroit  |Toutes|[10.6084/m9.figshare.34992688](https://doi.org/10.6084/m9.figshare.34992688)|
+|Monde  |GNL & TANKER|[10.6084/m9.figshare.34992688](https://doi.org/10.6084/m9.figshare.34992688)|
 
-
+Source :
+[IHS Maritime](https://maritime.ihs.com/)
 
 ## Téléchargement
 

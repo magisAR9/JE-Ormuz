@@ -1,5 +1,9 @@
 ## Donées d'escales meta - données 
 
+Source :
+[IHS Maritime](https://maritime.ihs.com/)
+
+
 | CHAMP | Description | Précisions éventuelles |
 |---|---|---|
 | **IMO/LR/IHS No.** | Numéro d'identification unique du navire attribué par l'Organisation maritime internationale (OMI). Identifiant permanent du navire, conservé tout au long de sa carrière. | |

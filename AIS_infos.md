@@ -1,6 +1,6 @@
 # Données AIS — dictionnaire des colonnes
 
-Ce jeu de données contient des messages **AIS** (*Automatic Identification System*). Les navires émettent ces messages par VHF pour signaler leur identité, leur position et leur route. Chaque ligne est un message horodaté émis par un navire.
+Ce jeu de données contient des messages **AIS** (*Automatic Identification System*). Les navires émettent ces messages par VHF pour signaler leur identité, leur position et leur route. Chaque ligne est un message horodaté émis par un navire. Voir [10.6084/m9.figshare.34992700](https://doi.org/10.6084/m9.figshare.34992700)
 
 Les colonnes appartiennent à deux familles :
 
@@ -14,19 +14,20 @@ Les colonnes appartiennent à deux familles :
 |---|---|---|---|---|---|
 | `MMSI` | identité | entier (9 chiffres) | — | *Maritime Mobile Service Identity* : identifiant de l'émetteur AIS, clé principale pour suivre un navire. Les 3 premiers chiffres (MID) indiquent le pavillon (ex. 226–228 = France). | — |
 | `TSTAMP` | dynamique | date-heure | UTC (à vérifier) | Horodatage de réception du message. | — |
-| `LATITUDE` | dynamique | réel | degrés décimaux, WGS84 | Latitude, de −90 à 90. | `91` |
-| `LONGITUDE` | dynamique | réel | degrés décimaux, WGS84 | Longitude, de −180 à 180. | `181` |
-| `COG` | dynamique | réel | degrés, 0–359.9 | *Course Over Ground* : route fond, c'est-à-dire la direction réelle du déplacement. | `360` |
+| `LATITUDE` | dynamique | réel | degrés décimaux, WGS84 | Latitude géographique du navire (degrés décimaux)., de −90 à 90. | `91` |
+| `LONGITUDE` | dynamique | réel | degrés décimaux, WGS84 | Longitude géographique du navire (degrés décimaux).	, de −180 à 180. | `181` |
+| `COG` | dynamique | réel | degrés, 0–359.9 | *Course Over Ground* : cap suivi sur le fond, en degrés (0 à 359,9°).	Direction de déplacement sur le fond | `360` |
 | `SOG` | dynamique | réel | nœuds, 0–102.2 | *Speed Over Ground* : vitesse fond (1 nœud = 1,852 km/h). | `102.3` |
 | `HEADING` | dynamique | entier | degrés, 0–359 | Cap vrai : direction de l'étrave. Il diffère du COG en cas de courant ou de vent. | `511` |
 | `NAVSTAT` | dynamique | entier (0–15) | code | Statut de navigation déclaré (voir table ci-dessous). | `15` |
-| `IMO` | statique | entier (7 chiffres) | — | Numéro OMI, attaché à la coque : il reste le même si le MMSI change. Absent pour beaucoup de petites unités. | `0` |
+| `IMO` | statique | entier (7 chiffres) | — | Numéro IMO, attaché à la coque : il reste le même si le MMSI change. Absent pour beaucoup de petites unités. | `0` |
 | `NAME` | statique | texte (≤ 20 car.) | — | Nom du navire. | vide / `@@@…` |
 | `CALLSIGN` | statique | texte (≤ 7 car.) | — | Indicatif d'appel radio. | vide / `@@@…` |
 | `TYPE` | statique | entier (0–99) | code | Type de navire et de cargaison (voir table ci-dessous). | `0` |
-| `DRAUGHT` | voyage | réel | mètres, 0.1–25.5 | Tirant d'eau actuel déclaré. | `0` |
+| `DRAUGHT` | voyage | réel | mètres, 0.1–25.5 | Tirant d'eau actuel déclaré, en mètres.	Information déclarative de l'équipage. | `0` |
 | `DEST` | voyage | texte (≤ 20 car.) | — | Destination déclarée, en texte libre et non normalisée (codes UN/LOCODE, noms de ports, fautes…). | vide |
 | `ETA` | voyage | texte / date | `MMJJHHMM` UTC dans la norme | Heure d'arrivée estimée. La norme ne prévoit **pas d'année** : il faut la déduire de `TSTAMP`. | mois `00`, jour `00`, heure `24`, minute `60` |
+
 
 ## Codes `NAVSTAT`
 

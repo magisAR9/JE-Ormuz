@@ -26,9 +26,11 @@ La description des colonnes, des codes et des précautions d'usage se trouve dan
 
 La description des colonnes, des codes et des précautions d'usage se trouve dans [Escales_infos.md](Escales_infos.md).
 
-| Flotte | DOI |
+Période couverte du 01/12/2025 au 31/05/2026 , fermeture du détroit 28 Février 2026
+
+| Zone | DOI |
 |---|---|
-|Toutes  |[10.6084/m9.figshare.34992688](https://doi.org/10.6084/m9.figshare.34992688)|
+|Détroit  |[10.6084/m9.figshare.34992688](https://doi.org/10.6084/m9.figshare.34992688)|
 
 
 

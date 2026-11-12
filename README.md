@@ -25,7 +25,7 @@ Pour examiner les perturbations du trafic maritime qui firent suite à cet évè
 
 
 
-<img src="https://framaforms.org/sites/default/files/forms/img/ormuz.png" width ="60%"/>
+<img src="./Ormuz_affiche.png" width ="60%"/>
 
 
 ## Contexte

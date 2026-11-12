@@ -22,9 +22,8 @@ La description des colonnes, des codes et des précautions d'usage se trouve dan
 | Zone | Flotte | DOI |
 |---|---|---|
 |Détroit  | Pétroliers (*TANKER*) | [10.6084/m9.figshare.34788252](https://doi.org/10.6084/m9.figshare.34788252) |
-|Détroit  | Porte-conteneurs (*CONTAINER*) | [10.6084/m9.figshare.34788243](https://doi.org/10.6084/m9.figshare.34788243) |
 |Détroit  | Méthaniers (*GNL*) | [10.6084/m9.figshare.34788225](https://doi.org/10.6084/m9.figshare.34788225) |
-
+|Détroit  | Porte-conteneurs (*CONTAINER*) | [10.6084/m9.figshare.34788243](https://doi.org/10.6084/m9.figshare.34788243) |
 
 Source :
 [AIS Hub](https://www.aishub.net/)
@@ -36,8 +35,8 @@ La description des colonnes, des codes et des précautions d'usage se trouve dan
 | Zone |Flotte | DOI |
 |---|---|---|
 |Détroit  |Toutes|[10.6084/m9.figshare.34992688](https://doi.org/10.6084/m9.figshare.34992688)|
-|Monde  |TANKER > 55000DWT|[10.6084/m9.figshare.34995577](https://doi.org/10.6084/m9.figshare.34995577)|
-|Monde  |GNL |[10.6084/m9.figshare.34995589](https://doi.org/10.6084/m9.figshare.34995589)|
+|Monde  |Pétroliers (*TANKER* > 55000DWT)  |[10.6084/m9.figshare.34995577](https://doi.org/10.6084/m9.figshare.34995577)|
+|Monde  |Méthaniers (*GNL*) |[10.6084/m9.figshare.34995589](https://doi.org/10.6084/m9.figshare.34995589)|
 
 Source :
 [IHS Maritime](https://maritime.ihs.com/)

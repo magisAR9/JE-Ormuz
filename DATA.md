@@ -22,6 +22,16 @@ La description des colonnes, des codes et des précautions d'usage se trouve dan
 | Porte-conteneurs (*container ships*) | [10.6084/m9.figshare.34788243](https://doi.org/10.6084/m9.figshare.34788243) |
 | Méthaniers (*LNG carriers*) | [10.6084/m9.figshare.34788225](https://doi.org/10.6084/m9.figshare.34788225) |
 
+## Données Escales 
+
+La description des colonnes, des codes et des précautions d'usage se trouve dans [Escales_infos.md](Escales_infos.md).
+
+| Flotte | DOI |
+|---|---|
+|Toutes  |[10.6084/m9.figshare.34992688](https://doi.org/10.6084/m9.figshare.34992688)|
+
+
+
 ## Téléchargement
 
 Chaque jeu de données peut être récupéré via l'API figshare à partir de son identifiant d'article (le nombre final du DOI). Par exemple, en R :

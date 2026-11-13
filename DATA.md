@@ -18,7 +18,7 @@ Source :
 ## Données AIS (localisation dynamique et métadonnées)
 
 La description des colonnes, des codes et des précautions d'usage se trouve dans [AIS_infos.md](AIS_infos.md).
-Un fichier de localisation des ports est disponible ici : [PORTS_monde.xlsx](./PORTS_monde.xlsx).
+
 
 | Zone | Flotte | DOI |
 |---|---|---|
@@ -32,13 +32,13 @@ Source :
 ## Données Escales 
 
 La description des colonnes, des codes et des précautions d'usage se trouve dans [Escales_infos.md](Escales_infos.md).
-
+Un fichier de localisation des ports est disponible ici : [PORTS_monde.xlsx](./PORTS_monde.xlsx).
 | Zone |Flotte | DOI |
 |---|---|---|
 |Détroit  |Toutes|[10.6084/m9.figshare.34992688](https://doi.org/10.6084/m9.figshare.34992688)|
 |Monde  |Pétroliers (*TANKER* > 55000DWT)  |[10.6084/m9.figshare.34995577](https://doi.org/10.6084/m9.figshare.34995577)|
 |Monde  |Méthaniers (*GNL*) |[10.6084/m9.figshare.34995589](https://doi.org/10.6084/m9.figshare.34995589)|
-|Monde| Porte-conteneurs (*CONTAINER* > 12000EVP) | [10.6084/m9.figshare.34995589](https://doi.org/10.6084/m9.figshare.34995589)|
+|Monde| Porte-conteneurs (*CONTAINER* > 12000EVP) | [10.6084/m9.figshare.35003662](https://doi.org/10.6084/m9.figshare.35003662)|
 
 Source :
 [IHS Maritime](https://maritime.ihs.com/)

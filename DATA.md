@@ -18,6 +18,7 @@ Source :
 ## Données AIS (localisation dynamique et métadonnées)
 
 La description des colonnes, des codes et des précautions d'usage se trouve dans [AIS_infos.md](AIS_infos.md).
+Un fichier de localisation des ports est disponible ici : [PORTS_monde.xlsx](./PORTS_monde.xlsx).
 
 | Zone | Flotte | DOI |
 |---|---|---|
